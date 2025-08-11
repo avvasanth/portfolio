@@ -1,0 +1,98 @@
+header{
+    text-align: center;
+    padding: 20px;
+    color: rgb(14, 59, 28);
+    /* background-color:rgb(230, 185, 230); */
+ text-shadow: 0 0 3px #FF0000,0 0 5px #0000FF;
+ background-image: linear-gradient(to right,violet,lightgreen);
+}
+ul li{
+   display: inline;
+}
+a{
+    text-decoration: none;
+    color: rgb(204, 214, 64);
+    padding-left: 80px;
+    padding-right: 90px;
+}
+a li:hover{
+    color:brown;
+    opacity: 0.3;
+    z-index: initial;
+}
+main{
+    background-color: rgb(181, 233, 248);
+    padding: 20px;
+    text-align: center;
+}
+
+h1.two{
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    padding: 10px;
+}
+img{
+    border-radius: 2em;
+}
+.tw{
+    font-size: 2rem;
+    font-family: cursive;
+    background-color: rgb(164, 220, 228);
+    text-align: center;
+    border-radius: 25px;
+     text-shadow: 0 0 3px #FF0000,0 0 5px #0000FF;
+ background-image: linear-gradient(to right,violet,lightgreen);
+}
+}
+.th{
+    text-align: left;
+}
+.ct{
+    font-size: 2rem;
+    font-family:cursive;
+    background-color: rgb(164, 220, 228);
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 25px;
+     text-shadow: 0 0 3px #FF0000,0 0 5px #0000FF;
+ background-image: linear-gradient(to right,violet,lightgreen);
+}
+
+.cm{
+    border-style: none;
+    box-sizing: border-box;
+    color: black;
+}
+.cs{
+    color: black;
+}
+.cs:hover{
+    color: rgb(226, 131, 241);
+}
+footer{
+    background-color: lightgreen;
+}
+#about{
+    display:flex;
+    padding: 30px;
+}
+#about div{
+    padding:40px;
+}
+.hr{
+    font-size: 1.1em;
+}
+img.ic{
+    border-radius: 200px;
+}
+#ic{
+    display: inline;
+    padding-top: 0px;
+    padding-right: 2px;
+}
+footer{  text-shadow: 0 0 3px #FF0000,0 0 5px #0000FF;
+ background-image: linear-gradient(to right,violet,lightgreen);
+}
+h3{ text-shadow: 0 0 3px #FF0000,0 0 5px #0000FF;
+
+}
